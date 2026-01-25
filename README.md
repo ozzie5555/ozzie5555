@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Krisna;Student+%40+SMKN+7+Semarang;Cybersecurity+Enthusiast;Building+Apps+with+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Krisna;Cybersecurity+Enthusiast;Active+CTF+Player;Hobbyist+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,28 +7,33 @@
 </p>
 
 <p align="center">
- <b>XI SIJA 2 Student</b> based in Semarang, Indonesia.<br/>
- Currently focusing on <b>Network Forensics (CTF)</b> and <b>Mobile-First Web Development</b>.
+ <b>Cybersecurity Enthusiast</b> based in Indonesia 🇮🇩<br/>
+ I am actively participating in <b>CTF (Capture The Flag)</b> competitions<br/>
+ and love building <b>websites</b> as a hobby.
 </p>
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Turso_DB-48C9B0?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Turso_DB-48C9B0?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+  
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/CTF-Red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -38,14 +43,3 @@
 </a>
 
 </div>
-
----
-
-### ⚡ Current Activity
-- 🔭 **Project:** Building a mobile-only app using Next.js & Turso DB.
-- 🚩 **CTF:** Active on TryHackMe (Forensics category).
-- 🌱 **Learning:** Japanese (Hiragana/Katakana) & Advanced Network Analysis.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ozzie5555&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
-  </p>
