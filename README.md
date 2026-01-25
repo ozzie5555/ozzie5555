@@ -7,16 +7,6 @@
 </p>
 
 <p align="center">
- <b>Cybersecurity Enthusiast</b> based in Indonesia<br/>
- I am actively participating in <b>CTF (Capture The Flag)</b> competitions<br/>
- and love building <b>websites</b> as a hobby.
-</p>
-
----
-
-###  Tech Stack & Tools
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
