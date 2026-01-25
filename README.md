@@ -21,15 +21,4 @@
   <img src="https://img.shields.io/badge/CTF-Red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 </p>
 
----
-
-###  GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozzie5555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzie5555&layout=compact&theme=tokyonight"/>
-</a>
-
 </div>
