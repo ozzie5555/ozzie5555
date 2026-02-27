@@ -1,29 +1,13 @@
 <h1 align="center">Hi, I'm Krisna (Ozzie) 👋</h1>
 
-###
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ozzie5555&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ozzie5555" />
-</div>
-
-###
-
-<div align="center">
-  <p><strong>Cybersecurity Enthusiast | CTF Player | Web Developer</strong></p>
-  <p>Focusing on Web & Binary Exploitation (Pwn), and building stuff with React & Node.js.</p>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ozzie5555&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-  <br/><br/>
+  <br /><br />
+  <strong>Cybersecurity Enthusiast | CTF Player | Web Developer</strong><br />
+  Focusing on Web & Binary Exploitation (Pwn), and building stuff with React & Node.js.
+  <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozzie5555&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" />
 </div>
-
-###
 
 <h3 align="center">My Arsenal</h3>
 
