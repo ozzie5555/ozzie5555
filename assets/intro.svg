@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Intro animation">
+  <style>
+    .title { font: 700 28px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #0b74de }
+    .subtitle { font: 400 18px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #24292e }
+  </style>
+  <rect width="100%" height="100%" fill="transparent" />
+
+  <text x="50%" y="50" text-anchor="middle" class="title" opacity="0">Hi, I'm Krisna (Ozzie) 👋
+    <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.9s" fill="freeze" />
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,8" to="0,0" begin="0s" dur="0.9s" fill="freeze" />
+  </text>
+
+  <text x="50%" y="95" text-anchor="middle" class="subtitle" opacity="0">Profile Views
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.9s" fill="freeze" />
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,8" to="0,0" begin="0.9s" dur="0.9s" fill="freeze" />
+  </text>
+
+  <text x="50%" y="140" text-anchor="middle" class="subtitle" opacity="0">Cybersecurity Enthusiast | CTF Player | Web Developer
+    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.9s" fill="freeze" />
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,8" to="0,0" begin="1.8s" dur="0.9s" fill="freeze" />
+  </text>
+
+</svg>
