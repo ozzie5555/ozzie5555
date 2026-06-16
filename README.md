@@ -4,7 +4,14 @@
   <img src="./assets/banner.svg" alt="Banner" width="100%" />
 </a>
 
-<img src="./assets/intro.svg" alt="Intro Animation" width="100%" />
+<h1 style="margin-bottom: 5px;">Hi, I'm Krisna (Ozzie) 👋</h1>
+
+<img src="https://komarev.com/ghpvc/?username=ozzie5555&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ozzie5555" style="margin-bottom: 10px;" />
+
+<p style="margin: 0; padding: 0;"><strong>Cybersecurity Enthusiast | CTF Player | Web Developer</strong></p>
+<p style="margin: 0; padding: 0; font-size: 14px; max-width: 600px; display: inline-block;">
+Aktif mendalami <i>Cybersecurity</i> melalui kompetisi CTF, dengan fokus pada <b>Web Exploitation</b>, <b>Pwn</b>, dan <b>Reverse Engineering</b>. Selain keamanan siber, saya juga membangun aplikasi web menggunakan teknologi <i>modern</i>.
+</p>
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -20,23 +27,8 @@
 
 ### 📊 Vital Statistics
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzie5555&theme=radical" alt="Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozzie5555&theme=radical" alt="GitHub profile contribution summary" />
 </p>    
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozzie5555&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
-</p>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/ozzie5555)
 
 </div>
