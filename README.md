@@ -1,3 +1,28 @@
+<p align="center">
+  <a href="https://github.com/ozzie5555"> <img loading="lazy" alt="Welcome" src="assets/banner.svg"/> </a>
+</p>
+
+<!-- <p align="center">
+  <a href="https://github.com/ozzie5555"> <img loading="lazy" alt="Samir" src="/assets/samir.svg"/> <img loading="lazy" alt="Paul" src="/assets/paul.svg"/> </a>
+</p> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn" src="/assets/linkedin-samirpaul.svg"></a> &nbsp; 
+  <a href="https://twitter.com/ozzie5555"><img loading="lazy" alt="Twitter" src="/assets/twitter-ozzie5555.svg"></a> &nbsp; 
+  <a href="https://github.com/ozzie5555"><img loading="lazy" alt="Views" src="https://web.samirpaul.workers.dev/views/svg?page=samirpaul&style=classic"></a> 
+</p>
+
+<!-- 
+Social Badge:
+https://img.shields.io/badge/-LinkedIn%20@SamirPaul-white?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/samirpaul/
+https://img.shields.io/badge/-Twitter%20@ozzie5555-white?style=social&logo=twitter&logoColor=blue&link=https://www.twitter.com/ozzie5555 
+-->
+
+<p align="center">
+<a href="https://github.com/ozzie5555"><img align="center"  width="100%" loading="lazy" src="/metrics.svg" alt="Github Stats" /></a>
+</p>
+ 
+<!-- <a href="https://github.com/ozzie5555"><img width="100%" loading="lazy" src="/assets/rainbow-superthin.webp" /></a> -->
 <div align="center" style="margin: 0; padding: 0;">
 
 <h1 style="margin-bottom: 5px;">Hi, I'm Krisna (Ozzie) 👋</h1>
