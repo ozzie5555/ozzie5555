@@ -50,6 +50,14 @@
       <a href="#ozzie5555-tech"><img src="./img/turso.svg" width="48" height="48" alt="Turso" /></a>
       <br>Turso
     </td>
+    <td align="center" width="96">
+      <a href="#ozzie5555-tech"><img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#ozzie5555-tech"><img src="./img/flutter-original.svg" width="48" height="48" alt="Flutter" /></a>
+      <br>Flutter
+    </td>
   </tr>
 </table>
 
