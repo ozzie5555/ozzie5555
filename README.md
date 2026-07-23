@@ -9,7 +9,7 @@
 <a href="#ozzie5555-title"><img src="https://github.com/ozzie5555.png" width="180" alt="Ozzie" align="right" /></a>
 
 - :shield: &nbsp;I'm exploring **Cybersecurity** through CTF competitions
-- :dart: &nbsp;I focus on **Web Exploitation**, **Pwn**, and **Reverse Engineering**
+- :dart: &nbsp;I focus on **Web Exploitation**, **Cryptography**, and **Reverse Engineering**
 - :computer: &nbsp;I build modern **web applications**
 - :speech_balloon: &nbsp;Ask me anything on my **[issues page]**
 - :handshake: &nbsp;Connect with me here on **[GitHub]**
