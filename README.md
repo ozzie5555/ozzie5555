@@ -35,8 +35,8 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#ozzie5555-tech"><img src="./img/redhat-original.svg" width="48" height="48" alt="Red Hat" /></a>
-      <br>Red Hat
+      <a href="#ozzie5555-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#ozzie5555-tech"><img src="./img/html5-original.svg" width="48" height="48" alt="HTML5" /></a>
