@@ -69,6 +69,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
 </picture>
 
+##
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ozzie5555&theme=dracula&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" />
+</div>
+
 <!-- links -->
 
 [github]: https://github.com/ozzie5555 "Ozzie on GitHub"
