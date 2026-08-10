@@ -1,4 +1,4 @@
-<h1 align="left" id="ozzie5555-title">:wave: Hello there! I'm Krisna (Ozzie)</h1>
+<h1 align="left" id="ozzie5555-title">Hi everyone!:wave: I'm Ozzie</h1>
 <h3 align="left">I do Cybersecurity, CTF, and Web Development things</h3>
 
 <p align="left">
@@ -27,8 +27,8 @@
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <a href="#ozzie5555-tech"><img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
-      <br>JavaScript
+      <a href="#ozzie5555-tech"><img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#ozzie5555-tech"><img src="./img/react-original.svg" width="48" height="48" alt="React" /></a>
@@ -39,24 +39,24 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="#ozzie5555-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" /></a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#ozzie5555-tech"><img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#ozzie5555-tech"><img src="./img/flutter-original.svg" width="48" height="48" alt="Flutter" /></a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
       <a href="#ozzie5555-tech"><img src="./img/html5-original.svg" width="48" height="48" alt="HTML5" /></a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#ozzie5555-tech"><img src="./img/supabase-original.svg" width="48" height="48" alt="Supabase" /></a>
       <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <a href="#ozzie5555-tech"><img src="./img/turso.svg" width="48" height="48" alt="Turso" /></a>
-      <br>Turso
-    </td>
-    <td align="center" width="96">
-      <a href="#ozzie5555-tech"><img src="./img/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#ozzie5555-tech"><img src="./img/flutter-original.svg" width="48" height="48" alt="Flutter" /></a>
-      <br>Flutter
     </td>
   </tr>
 </table>
