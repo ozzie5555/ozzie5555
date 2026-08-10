@@ -1,4 +1,4 @@
-<h1 align="left" id="ozzie5555-title">Hi everyone!:wave: I'm Ozzie</h1>
+<h1 align="left" id="ozzie5555-title">Hi everyone! :wave: I'm Ozzie</h1>
 <h3 align="left">I do Cybersecurity, CTF, and Web Development things</h3>
 
 <p align="left">
