@@ -18,7 +18,7 @@
 
 <h2 align="left" id="ozzie5555-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things I like to use in experiments.
 
 <table>
   <tr>
