@@ -1,7 +1,7 @@
 <h1 align="left" id="ozzie5555-title">Hi everyone! :wave: I'm Ozzie</h1>
 <h3 align="left">I do Cybersecurity, CTF, and Web Development things</h3>
 
-<a href="#ozzie5555-title"><img src="https://github-readme-stats.vercel.app/api?username=ozzie5555&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" width="360" alt="Ozzie's GitHub stats" align="right" /></a>
+<a href="#ozzie5555-title"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent" width="340" alt="Ozzie's GitHub stats" align="right" /></a>
 
 <p align="left">
   <a href="https://github.com/ozzie5555/ozzie5555"><img src="https://komarev.com/ghpvc/?username=ozzie5555" alt="Page views" /></a>
