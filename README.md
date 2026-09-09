@@ -57,12 +57,6 @@
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
-  <img alt="吃豆人贡献图" src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
-</picture>
-
 <p align="center">
   <img alt="GitHub 活跃度图表" src="https://shieldcn.dev/chart/github/commits/ozzie5555.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=GitHub+%E6%80%BB%E6%B4%BB%E8%B7%83%E5%BA%A6&amp;icon=github" />
 </p>
