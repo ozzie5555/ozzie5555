@@ -1,12 +1,12 @@
 <h1 align="left" id="ozzie5555-title">Hi everyone! :wave: I'm Ozzie</h1>
 <h3 align="left">I do Cybersecurity, CTF, and Web Development things</h3>
 
+<a href="#ozzie5555-title"><img src="https://github-readme-stats.vercel.app/api?username=ozzie5555&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" width="360" alt="Ozzie's GitHub stats" align="right" /></a>
+
 <p align="left">
   <a href="https://github.com/ozzie5555/ozzie5555"><img src="https://komarev.com/ghpvc/?username=ozzie5555" alt="Page views" /></a>
   <a href="https://github.com/ozzie5555?tab=followers"><img src="https://img.shields.io/github/followers/ozzie5555?style=flat&logo=github" alt="GitHub followers" /></a>
 </p>
-
-<a href="#ozzie5555-title"><img src="https://github.com/ozzie5555.png" width="180" alt="Ozzie" align="right" /></a>
 
 I'm exploring **Cybersecurity** through CTF competitions, focusing on **Web Exploitation**, **Cryptography**, and **Reverse Engineering**. I also build modern **web applications**. Ask me anything on my **[issues page]** or connect with me on **[GitHub]**.
 
