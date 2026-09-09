@@ -1,7 +1,13 @@
 <h1 align="left" id="ozzie5555-title">大家好👋，我叫 Ozzie</h1>
 <h3 align="left">在攻击路径中学习，在实战中突破边界</h3>
 
-<a href="#ozzie5555-title"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent&amp;title_color=ffffff&amp;text_color=ffffff&amp;bg_color=00000000&amp;border_color=ffffff&amp;icon_color=90caf9" width="340" hspace="40" alt="Ozzie 的 GitHub 统计数据" align="right" /></a>
+<a href="#ozzie5555-title">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent&amp;title_color=1f6feb&amp;text_color=ffffff&amp;bg_color=00000000&amp;border_color=ffffff&amp;icon_color=1f6feb">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent&amp;title_color=0a3069&amp;text_color=1f2328&amp;bg_color=00000000&amp;border_color=0a3069&amp;icon_color=0a3069">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent&amp;title_color=0a3069&amp;text_color=1f2328&amp;bg_color=00000000&amp;border_color=0a3069&amp;icon_color=0a3069" width="340" hspace="40" alt="Ozzie 的 GitHub 统计数据" align="right" />
+  </picture>
+</a>
 
 <p align="left">
   <a href="https://github.com/ozzie5555/ozzie5555"><img src="https://komarev.com/ghpvc/?username=ozzie5555&amp;label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F" alt="主页访问量" /></a>
