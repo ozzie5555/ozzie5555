@@ -1,20 +1,20 @@
-<h1 align="left" id="ozzie5555-title">Hi everyone! :wave: I'm Ozzie</h1>
-<h3 align="left">I do Cybersecurity, CTF, and Web Development things</h3>
+<h1 align="left" id="ozzie5555-title">大家好！👋 我是 Ozzie</h1>
+<h3 align="left">我热衷于网络安全、CTF 与 Web 开发</h3>
 
-<a href="#ozzie5555-title"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent&amp;title_color=ffffff&amp;text_color=ffffff&amp;bg_color=00000000&amp;border_color=ffffff&amp;icon_color=90caf9" width="340" hspace="40" alt="Ozzie's GitHub stats" align="right" /></a>
+<a href="#ozzie5555-title"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent&amp;title_color=ffffff&amp;text_color=ffffff&amp;bg_color=00000000&amp;border_color=ffffff&amp;icon_color=90caf9" width="340" hspace="40" alt="Ozzie 的 GitHub 统计数据" align="right" /></a>
 
 <p align="left">
-  <a href="https://github.com/ozzie5555/ozzie5555"><img src="https://komarev.com/ghpvc/?username=ozzie5555" alt="Page views" /></a>
-  <a href="https://github.com/ozzie5555?tab=followers"><img src="https://img.shields.io/github/followers/ozzie5555?style=flat&logo=github" alt="GitHub followers" /></a>
+  <a href="https://github.com/ozzie5555/ozzie5555"><img src="https://komarev.com/ghpvc/?username=ozzie5555&amp;label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F" alt="主页访问量" /></a>
+  <a href="https://github.com/ozzie5555?tab=followers"><img src="https://img.shields.io/github/followers/ozzie5555?style=flat&amp;logo=github&amp;label=%E5%85%B3%E6%B3%A8%E8%80%85" alt="GitHub 关注者" /></a>
 </p>
 
-I'm exploring **Cybersecurity** through CTF competitions, focusing on **Web Exploitation**, **Cryptography**, and **Reverse Engineering**. I also build modern **web applications**. Ask me anything on my **[issues page]** or connect with me on **[GitHub]**.
+我通过参加 CTF 比赛探索**网络安全**，主要专注于 **Web 漏洞利用**、**密码学**和**逆向工程**。我也开发现代 **Web 应用程序**。欢迎在我的**[问题页面]**向我提问，或通过 **[GitHub]** 与我联系。
 
 <br>
 
-<h2 align="left" id="ozzie5555-tech">Favorite Tech</h2>
+<h2 align="left" id="ozzie5555-tech">常用技术</h2>
 
-> Tools, languages, and other things I like to use in experiments.
+> 我喜欢用于项目和实验的工具、编程语言及其他技术。
 
 <table>
   <tr>
@@ -60,14 +60,14 @@ I'm exploring **Cybersecurity** through CTF competitions, focusing on **Web Expl
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
+  <img alt="吃豆人贡献图" src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
 </picture>
 
 <p align="center">
-  <img alt="chart" src="https://shieldcn.dev/chart/github/commits/ozzie5555.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
+  <img alt="GitHub 活跃度图表" src="https://shieldcn.dev/chart/github/commits/ozzie5555.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=GitHub+%E6%80%BB%E6%B4%BB%E8%B7%83%E5%BA%A6&amp;icon=github" />
 </p>
 
-<!-- links -->
+<!-- 链接 -->
 
-[github]: https://github.com/ozzie5555 "Ozzie on GitHub"
-[issues page]: https://github.com/ozzie5555/ozzie5555/issues "Ask Ozzie a question"
+[github]: https://github.com/ozzie5555 "Ozzie 的 GitHub 主页"
+[问题页面]: https://github.com/ozzie5555/ozzie5555/issues "向 Ozzie 提问"
