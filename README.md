@@ -1,5 +1,5 @@
-<h1 align="left" id="ozzie5555-title">大家好！👋 我是 Ozzie</h1>
-<h3 align="left">我热衷于网络安全、CTF 与 Web 开发</h3>
+<h1 align="left" id="ozzie5555-title">大家好👋，我叫 Ozzie</h1>
+<h3 align="left">在攻击路径中学习，在实战中突破边界</h3>
 
 <a href="#ozzie5555-title"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozzie5555&amp;theme=transparent&amp;title_color=ffffff&amp;text_color=ffffff&amp;bg_color=00000000&amp;border_color=ffffff&amp;icon_color=90caf9" width="340" hspace="40" alt="Ozzie 的 GitHub 统计数据" align="right" /></a>
 
@@ -8,7 +8,7 @@
   <a href="https://github.com/ozzie5555?tab=followers"><img src="https://img.shields.io/github/followers/ozzie5555?style=flat&amp;logo=github&amp;label=%E5%85%B3%E6%B3%A8%E8%80%85" alt="GitHub 关注者" /></a>
 </p>
 
-我通过参加 CTF 比赛探索**网络安全**，主要专注于 **Web 漏洞利用**、**密码学**和**逆向工程**。我也开发现代 **Web 应用程序**。欢迎在我的**[问题页面]**向我提问，或通过 **[GitHub]** 与我联系。
+我通过参加 CTF 比赛不断探索网络安全领域，主要专注于脚本开发、APK 漏洞挖掘、网络漏洞利用、密码学和逆向工程，同时也喜欢构建现代化的网络应用程序。对我来说，最好的学习方式不是只停留在理论上，而是亲手拆解和攻破系统，深入理解完整的攻击路径，在真实实践中发现问题、验证思路并持续提升自己的能力。每一次失败都是新的线索，每一个漏洞都是理解系统的入口。让我们保持好奇心，一起挑战边界、突破极限！如果你想交流、合作或了解更多项目，欢迎访问我的 **[GitHub](https://github.com/ozzie5555)**，也可以在 **[问题页面](https://github.com/ozzie5555/ozzie5555/issues)** 给我留言。
 
 <br>
 
@@ -66,8 +66,3 @@
 <p align="center">
   <img alt="GitHub 活跃度图表" src="https://shieldcn.dev/chart/github/commits/ozzie5555.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=GitHub+%E6%80%BB%E6%B4%BB%E8%B7%83%E5%BA%A6&amp;icon=github" />
 </p>
-
-<!-- 链接 -->
-
-[github]: https://github.com/ozzie5555 "Ozzie 的 GitHub 主页"
-[问题页面]: https://github.com/ozzie5555/ozzie5555/issues "向 Ozzie 提问"
