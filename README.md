@@ -8,11 +8,7 @@
 
 <a href="#ozzie5555-title"><img src="https://github.com/ozzie5555.png" width="180" alt="Ozzie" align="right" /></a>
 
-- :shield: &nbsp;I'm exploring **Cybersecurity** through CTF competitions
-- :dart: &nbsp;I focus on **Web Exploitation**, **Cryptography**, and **Reverse Engineering**
-- :computer: &nbsp;I build modern **web applications**
-- :speech_balloon: &nbsp;Ask me anything on my **[issues page]**
-- :handshake: &nbsp;Connect with me here on **[GitHub]**
+I'm exploring **Cybersecurity** through CTF competitions, focusing on **Web Exploitation**, **Cryptography**, and **Reverse Engineering**. I also build modern **web applications**. Ask me anything on my **[issues page]** or connect with me on **[GitHub]**.
 
 <br>
 
@@ -67,9 +63,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ozzie5555&theme=dracula&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" />
-</div>
+<p align="center">
+  <img alt="chart" src="https://shieldcn.dev/chart/github/commits/ozzie5555.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
+</p>
 
 <!-- links -->
 
