@@ -1,0 +1,17 @@
+name: followers
+on:
+  schedule: [{cron: "*/5 * * * *"}]
+  workflow_dispatch:
+jobs:
+  followers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Find-NICK/metrics@master
+        with:
+          filename: src/followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers

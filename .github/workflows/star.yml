@@ -1,0 +1,17 @@
+name: stars
+on:
+  schedule: [{cron: "*/5 * * * *"}]
+  workflow_dispatch:
+jobs:
+  followers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Find-NICK/metrics@master
+        with:
+          filename: src/stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 5

@@ -1,0 +1,18 @@
+name: random-code-snippet
+on:
+  schedule: [{cron: "*/5 * * * *"}]
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Find-NICK/metrics@master
+        with:
+            filename: src/random-code-snippet.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_code: yes
+            plugin_code_load: 400
+            plugin_code_visibility: public

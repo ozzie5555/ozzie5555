@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  schedule: [{cron: "*/5 * * * *"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Find-NICK/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ozzie5555
+          filename: src/metric.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          plugin_activity: yes
+          plugin_activity_days: 0
+          plugin_activity_filter: all
+          plugin_activity_limit: 10
+          plugin_activity_load: 300
+          plugin_activity_visibility: push, issue, pr, ref/create, ref/delete, release, wiki, fork, star, public, member
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_traffic: yes

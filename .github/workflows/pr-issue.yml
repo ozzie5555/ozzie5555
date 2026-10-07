@@ -1,0 +1,17 @@
+name: pr-and-issue
+on:
+  schedule: [{cron: "*/5 * * * *"}]
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Find-NICK/metrics@master
+        with:
+            filename: src/pr-issue.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_followup: yes
+            plugin_followup_sections: user
