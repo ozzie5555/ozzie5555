@@ -36,4 +36,9 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/followers.svg" />
-<img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/github-contribution-grid-snake.svg" />
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
