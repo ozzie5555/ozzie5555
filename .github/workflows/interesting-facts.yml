@@ -1,6 +1,6 @@
 name: interesting-facts
 on:
-  schedule: [{cron: "*/5 * * * *"}]
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
 jobs:
   generate:
@@ -8,7 +8,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Find-NICK/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: src/habits-facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
