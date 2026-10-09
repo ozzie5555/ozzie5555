@@ -1,5 +1,6 @@
-<img src="https://github.com/ozzie5555.png" alt="Ozzie" align="right" width="100" height="auto" />
-
+<div align="center">
+  <img src="https://i.imgflip.com/9kqjnj.jpg"  />
+</div>
 <h1>Hi, I'm Krisna (Ozzie)!</h1>
 
 <h4>Cybersecurity, CTF, and Web Development</h4>
