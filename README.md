@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/9kqjnj.jpg"  />
+  <img src="https://files.catbox.moe/tm8mdf.png"  />
 </div>
 <h1>Hi, I'm Krisna (Ozzie)!</h1>
 
