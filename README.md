@@ -28,38 +28,60 @@ My goal is simple: learn deeply, build reliable software, and grow into a securi
 
 <br clear="right"/>
 
-<h2 align="center">🤝 Connect</h2>
-
-<p align="center">
-  <a href="https://github.com/ozzie5555">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:youokozzie@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-</p>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,php,flutter,supabase,sqlite,git,github,vscode" />
-  &nbsp;
-  <img src="./img/turso.svg" height="48" alt="Turso" />
+  <a href="#"><img src="https://thesvg.org/icons/html5/default.svg" width="48" height="48" alt="HTML5" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/css/default.svg" width="48" height="48" alt="CSS3" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/javascript/default.svg" width="48" height="48" alt="JavaScript" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/typescript/default.svg" width="48" height="48" alt="TypeScript" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/react/default.svg" width="48" height="48" alt="React" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/nextjs/default.svg" width="48" height="48" alt="Next.js" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/nodejs/default.svg" width="48" height="48" alt="Node.js" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/tailwindcss/default.svg" width="48" height="48" alt="Tailwind CSS" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/python/default.svg" width="48" height="48" alt="Python" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/php/default.svg" width="48" height="48" alt="PHP" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/flutter/default.svg" width="48" height="48" alt="Flutter" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/supabase/default.svg" width="48" height="48" alt="Supabase" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/sqlite/default.svg" width="48" height="48" alt="SQLite" /></a>
+  <a href="#"><img src="https://thesvg.org/icons/turso/default.svg" width="48" height="48" alt="Turso" /></a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ozzie5555&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
-
-</div>
-
-<h2 align="center">📈 Activity Graph</h2>
+<table align="center">
+    <tr align="center">
+        <td rowspan="5">
+            <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/metric.svg">
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/random-code-snippet.svg">
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/languages.svg">
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/pr-issue.svg">
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/habits-facts.svg">
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/wakatime.svg">
+        </td>
+    </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozzie5555&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/main/src/followers.svg" />
 </p>
 
 <h2 align="center">⌘ Commit Activity</h2>
@@ -70,10 +92,4 @@ My goal is simple: learn deeply, build reliable software, and grow into a securi
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
     <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph-dark.svg">
   </picture>
-</p>
-
-<h2 align="center">⌘ Philosophy</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
