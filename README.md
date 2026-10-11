@@ -88,8 +88,14 @@ My goal is simple: learn deeply, build reliable software, and grow into a securi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/github-breakout/images/breakout-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ozzie5555/ozzie5555/github-breakout/images/breakout-light.svg"
+    />
+    <img alt="Breakout Game" src="https://raw.githubusercontent.com/ozzie5555/ozzie5555/github-breakout/images/breakout-light.svg" />
   </picture>
 </p>
