@@ -43,7 +43,9 @@ My goal is simple: learn deeply, build reliable software, and grow into a securi
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,python,php,js,flutter,html,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,php,flutter,supabase,sqlite,git,github,vscode" />
+  &nbsp;
+  <img src="./img/turso.svg" height="48" alt="Turso" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
