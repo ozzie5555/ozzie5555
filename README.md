@@ -35,7 +35,7 @@ My goal is simple: learn deeply, build reliable software, and grow into a securi
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ozzie@example.com">
+  <a href="mailto:youokozzie@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
